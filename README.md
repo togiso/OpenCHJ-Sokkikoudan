@@ -3,7 +3,7 @@
 国立国語研究所で公開されている[『速記叢書講談演説集』データ](https://mmsrv.ninjal.ac.jp/lanpro/spokenlanguage2/)
 に短単位の形態論情報を付与したデータです。
 
-## テキスト
+## 原テキスト
 - 国語研究所言語処理データ集『速記叢書講談演説集』データ https://mmsrv.ninjal.ac.jp/lanpro/spokenlanguage2/
 
 ## ファイル形式
