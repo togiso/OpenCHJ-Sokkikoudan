@@ -26,8 +26,8 @@
 ## 形態論情報整備
 -　BY [国立国語研究所「通時コーパス」プロジェクト](https://www.ninjal.ac.jp/research/cr-project/project-4/diachronic-corpus/)
 
-## 公開
-- 2025/03/03
+## 履歴
+- 2025/03/03　公開
 
 ## ライセンス
 - [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
